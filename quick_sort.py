@@ -1,5 +1,3 @@
-sprixin quick git
-
 def quick_sort(arr, low, high):
     """
     快速排序函数
